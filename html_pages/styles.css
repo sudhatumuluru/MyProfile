@@ -1,0 +1,18 @@
+body {
+    padding-top: 50px; /* Whatever the height of your navbar is; the
+                             default is 50px */
+}
+
+h1 {
+        font-style: oblique;
+    }
+.navbar-nav {
+   float: left;
+   margin: 0;
+   margin-left: 10%;
+}
+
+.navbar-nav.navbar-right:last-child {
+   margin-right: -15px;
+   margin-left: 0;
+}
